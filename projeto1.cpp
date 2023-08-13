@@ -3,8 +3,8 @@
 float area(float largura, float comprimento){ 
 
     return largura * comprimento;
-    }
 
+}
 int main(){
     float a,b;
 
