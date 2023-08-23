@@ -20,7 +20,7 @@ int main(){
        result = valorum + valordois; 
 
     }else if(operacao == '-'){
-       result = valorum + valordois; 
+       result = valorum - valordois; 
 
     } else if(operacao == 'x'){
        result = valorum * valordois;
